@@ -1,8 +1,8 @@
-[Yii2-youtube]
+# Yii2-youtube
 
 Widget pour insérer dans votre view une vidéo youtube .
 
-[Installation] 
+# Installation
 
 1. Créer le dossier "components" à la racine de votre site.
 2. Copie dans le dossier "components":  le fichier "YoutubeWidget.php" et le dossier "views".
